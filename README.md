@@ -83,3 +83,54 @@ Daftar node, diurutkan berdasarkan jumlah indegree terbesar
 Node 		: Website x
 Indegree	: Jumlah website lain yang memiliki link mengarah ke website x. Website dijamin unik
 (File berukuran 87,9 MB . tidak dapat diupload ke github)
+
+# Hasil Analisis
+
+## Content Provider
+Website yang menyediakan konten (artikel,berita)
+Top 3 :
+1. Wikipedia
+2. Nytimes
+3. BBC
+... selengkapnya content_provider.txt
+
+
+## Service Provider
+Website yang menyediakan layanan online 
+Top 3 :
+1. Google
+2. Twitter
+3. Amazon
+... Lihat selengkapnya di service_provider.txt
+
+## Organization
+Organisasi
+Top 5
+1. Whitehouse.gov
+2. Who.int
+3. Cdc.gov
+4. Epa.gov
+5. un.org
+
+## Brand Provider
+Website promosi sebuah brand produk tertentu
+Top 3 :
+1. Microsoft
+2. Apple
+3. Adobe
+... Lihat selengkapnya di brand_provider.txt
+
+## Newspaper
+Koran online
+Top 10 :
+1. Nytimes
+2. Guardian.co.uk
+3. Washingtonpost.com
+4. Telegraph.co.uk
+5. latimes.com
+6. usatoday.com
+7. sfgate.com
+8. timesonline.co.uk
+9. dailymail.co.uk
+10. nydailynews.com
+... Lihat selengkapnya di newspaper.txt
