@@ -13,7 +13,7 @@ Artinya , website blabla.com memiliki link ke bla1.com dan bla2.com.
 
 
 
-## urlextract.py
+## output.py
 Input 	: ccc.txt
 Output 	: lala.txt
 
