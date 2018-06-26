@@ -2,14 +2,14 @@
 Tujuan : Diberikan data hasil crawling web. Cari web yang paling "terkenal".
 
 
-## ccc.txt
+## input.txt
 Dataset yang sudah dipreprocess.
 Format :
 P blabla.com
 L bla1.com
 L bla2.com
 Artinya , website blabla.com memiliki link ke bla1.com dan bla2.com.
-(File ini berukuruan 79,3 MB dan tidak diupload ke github ini)
+(File asli ini berukuruan 79,3 MB dan tidak diupload ke github ini)
 
 
 
@@ -78,11 +78,11 @@ P twitter.com
 L wikipedia.org
 indegree[wikipedia.org] = [google.com, youtube.com, twitter.com]
 
-## lala.txt
+## output.txt
 Daftar node, diurutkan berdasarkan jumlah indegree terbesar
 Node 		: Website x
 Indegree	: Jumlah website lain yang memiliki link mengarah ke website x. Website dijamin unik
-(File berukuran 87,9 MB . tidak dapat diupload ke github)
+
 
 # Hasil Analisis
 
