@@ -1,0 +1,57 @@
+nytimes.com : 10782							Newspaper								1851		The New York Times									US	NewYork
+guardian.co.uk : 5828						Newspaper								1821		The Guardian												UK 	Manchester
+washingtonpost.com : 5409				Newspaper								1877		The Washington Post									US	Washington
+telegraph.co.uk : 3636					Newspaper								1855		The telegraph												UK 	London
+latimes.com : 3343							Newspaper								1881		Los Angeles Times										US	LA
+usatoday.com : 2828							Newspaper								1982		USA Today														US
+sfgate.com : 2046								Newspaper								1865		San Fransisco Chronicle							US 	San Fransisco
+timesonline.co.uk : 2809				Newspaper								1785		The Times 													UK
+dailymail.co.uk : 2483					Newspaper								1896		Daily Mail													UK 	London
+nydailynews.com : 1934					Newspaper								1919		Daily News													US 	New York			
+washingtontimes.com : 1442			Newspaper								1982		The Washington Post									US 	Washington
+economist.com : 1294						Newspaper								1843		The Economist 											UK 	London
+blogs.wsj.com : 1126						Newspaper								1889		The Wall Street Journal							US 	New York
+news.com.au : 1040							Newspaper								1923		News Corp Australia									Australia
+thesun.co.uk : 1000							Newspaper								1964		The Sun															UK
+suntimes.com : 873							Newspaper 							1948		Chicago Sun Times 									US  Chicago
+mercurynews.com : 864						Newspaper 							1851		The Mercury News										US 	California
+politico.com : 1969							Newspaper				 				2007		Politico
+independent.co.uk : 1785				Newspaper								1986		The Independent											UK 		London
+nypost.com : 1769								Newspaper								1801		New York Post												US 		New York
+ft.com : 1728										Newspaper								1888		Financial Times											UK		London
+chicagotribune.com : 1629				Newspaper								1847		The Chicago Tribune									US 		Chicago
+elpais.com : 1264								Newspaper								1976		El País (Lit : The Country)					Spain Madrid						
+theglobeandmail.com : 1117			Newspaper								1844		The Globe and Mail									Canada 	Toronto
+seattletimes.nwsource.com : 1074 Newspaper							1891		The Seattle Times										Seattle			US
+philly.com : 999								Newspaper								2010		Philadelphia Media Network					Philadeplhia 	US				
+chron.com : 969									Newspaper								1901		Houston Chronicle										Houston			US
+smh.com.au : 904								Newspaper								1831		The Sydney Morning Herald						Sydney			Australia
+thestar.com : 888								Newspaper								1892		Toronto Star												Toronto			Canada
+haaretz.com : 866								Newspaper								1919		Haaertz (lit: [The Land of Israel])	Tel Aviv		Israel
+csmonitor.com : 848							Newspaper								1908		The Christian Science Monitor				Massachusets	US
+miamiherald.com : 823						Newspaper								1903		Miami Herald												Florida			US			News
+elmundo.es : 797								Newspaper								1989		El Mundo del Siglo Veintiuno				Madrid			Spain
+dallasnews.com : 795						Newspaper								1885		The Dallas Morning News							Dallas			US			News
+newsday.com : 793								Newspaper								1940		Newsday															New York		US
+jpost.com : 786									Newspaper								1932		The Jerusalem Post									Jerusalem		Israel		News
+theaustralian.news.com.au : 759	Newspaper								1964		The Australian											NSW				Australia
+startribune.com : 749						Newspaper								1867		Star Tribune												Minnesota		US
+theonion.com : 748							Newspaper								1988		The Onion														Chicago			US
+thehill.com : 728								Newspaper								1994		The Hill														WashingtonDC	US
+freep.com : 682									Newspaper								1831		Detroit Free Press									Detroit			US
+ajc.com : 669										Newspaper								1868		The Atlanta Journal-Constitution		Atlanta			US
+bizjournals.com : 647						Newspaper								1985		American City Business Journal
+denverpost.com : 636						Newspaper								1892		The Denver Post											Denver			US
+theage.com.au : 615							Newspaper								1854		The Age															Melbourne 		Australia
+baltimoresun.com : 609					Newspaper								1837		The Baltimore Sun										Maryland		US
+corriere.it : 572								Newspaper								1876		Corriere Della Sera									Milan			Italy
+post-gazette.com : 560					Newspaper								1786		Pittsburgh Post Gazette							Pennsylvania	US
+kansascity.com : 552						Newspaper								1880		The Kansas City Star
+repubblica.it : 552							Newspaper								1976		La Repubblica 											Italy
+azcentral.com : 546							Newspaper								1890		The Arizona Republic								Arizona			US
+dn.se : 545											Newspaper								1864		Dagens Nyheter (lit:The Day's News)	Sweden
+lemonde.fr : 541								Newspaper								1944		Le Monde (lit:The World)						French
+timesofindia.indiatimes.com : 530	Newspaper							1838		The Times of India									India
+desmoinesregister.com : 529			Newspaper								1849		The Des Moines Register							Iowa			US
+detnews.com : 529								Newspaper								1873		The Detroit News										US				Detroit
+mirror.co.uk : 511							Newspaper								1903		Daily Mirror												UK				London

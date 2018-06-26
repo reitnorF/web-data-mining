@@ -1,0 +1,193 @@
+CONTENT PROVIDER
+
+en.wikipedia.org : 29873					Online Encyclopedia, English				2001		Wikipedia
+es.wikipedia.org : 3108						Online Encyclopedia, Spain						
+de.wikipedia.org : 1560						Online Encyclopedia, Germany
+fr.wikipedia.org : 1279						Online Encyclopedia, France	
+it.wikipedia.org : 950						Online Encyclopedia, Italia
+ja.wikipedia.org : 808						Online Encyclopedia, Japanese
+pt.wikipedia.org : 777						Online Encyclopedia, Portuguese
+
+nytimes.com : 10782							Newspaper									1851		The New York Times						US	NewYork
+	thecaucus.blogs.nytimes.com : 590
+	topics.nytimes.com : 1387
+	query.nytimes.com : 782
+	iht.com : 802							Newspaper									1887		International Herald Tribune (ack)
+	
+news.bbc.co.uk : 6322						Broadcasting Organization, London			1922		British Broadcasting Corporation		UK	London
+	bbc.co.uk : 2211						
+	
+guardian.co.uk : 5828						Newspaper, Manchester						1821		The Guardian							
+washingtonpost.com : 5409					Newspaper, Washington						1877		The Washington Post
+	voices.washingtonpost.com : 1324
+telegraph.co.uk : 3636						Newspaper, London							1855		The Telegraph
+blogs.telegraph.co.uk : 546
+		
+msnbc.msn.com : 3390						TV											1996		MSNBC
+reuters.com : 3383							International News Agency					1851		Reuters
+	uk.reuters.com : 1321
+latimes.com : 3343							Newspaper, Los Angeles						1881		Los Angeles Times
+	latimesblogs.latimes.com : 1432
+foxnews.com : 2908							TV											1996		Fox News Channel
+usatoday.com : 2828							Newspaper									1982		USA Today
+blogs.usatoday.com : 572
+sfgate.com : 2046							Newspaper, San Fransisco					1865		San Fransisco Chronicle
+timesonline.co.uk : 2809					Newspaper									1785		The Times
+entertainment.timesonline.co.uk : 607
+business.timesonline.co.uk : 559
+time.com : 2717								News Magazine, New York	City				1923		Time
+boston.com : 2600							Online News, Local							1995		Boston.com
+npr.org : 2160								Radio Network								1970		National Public Radio						
+bloomberg.com : 2587						International News Agency					1990		Bloomberg		
+businessweek.com : 1525						Magazine									1929		Bloomberg BussinessWeek	
+dailymail.co.uk : 2483						Newspaper, London							1896		Daily Mail
+abcnews.go.com : 2310						TV											1945		ABC News
+	blogs.abcnews.com : 871
+forbes.com : 2032							Magazine									1917		Forbes
+nydailynews.com : 1934						Newspaper, New York							1919		Daily News				
+cbsnews.com : 1900							TV,Radio									1927		CBS News
+techcrunch.com : 1855						Online News									2005		Techcrunch
+wired.com : 1471							Magazine									1993		Wired
+blog.wired.com : 1853						Magazine, America							
+news.cnet.com : 1760						Online News									1994		Cnet
+sports.espn.go.com : 1591					TV											1978		ESPN
+newsweek.com : 1585							Magazine, America							1933		Newsweek			
+
+money.cnn.com : 1548						TV											1980		CNN
+	edition.cnn.com : 1327
+	sportsillustrated.cnn.com : 738
+	politicalticker.blogs.cnn.com : 685		Blog
+	
+washingtontimes.com : 1442					Newspaper, Washington						1982		The Washington Post
+economist.com : 1294						Newspaper, London							1843		The Economist
+engadget.com : 1168							Blog Network								2004		Engagdet	
+newyorker.com : 1165						Magazine									1925		The New Yorker
+nymag.com : 1137							Magazine									1968		New York Magazine
+blogs.wsj.com : 1126						Newspaper, New York City					1889		The Wall Street Journal
+online.wsj.com : 4847			
+arstechnica.com : 1118						Online News									1998		Ars Technica
+mtv.com : 1041								TV											1981		MTV
+news.com.au : 1040							Newspaper,Magazine							1923		News Corp Australia			, Australia
+thesun.co.uk : 1000							Newspaper, UK+Ireland						1964		The Sun
+marketwatch.com : 942						Website, Bussiness News						1997		MarketWatch		
+newscientist.com : 937						Magazine, Science							1956		New Scientist
+abc.net.au : 879							Website, TV, Radio, 						1995		Australian Broadcasting Corporation							Australia
+suntimes.com : 873							Newspaper 									1948		Chicago Sun Times
+usnews.com : 869							Magazine									1933		US News & World Report
+mercurynews.com : 864						Newspaper 									1851		The Mercury News							California		US
+politico.com : 1969							Newspaper, Radio, Politics	 				2007		Politico
+pbs.org : 1908								TV, Goverment Funded TV Program				1970		Public Broadcasting Service
+slate.com : 1832							Online Magazine								1996		The Slate Group	
+independent.co.uk : 1785					Newspaper									1986		The Independent								London			UK
+nypost.com : 1769							Newspaper									1801		New York Post								New York 		US
+ft.com : 1728								Newspaper									1888		Financial Times								London			UK
+salon.com : 1672							Online News									1995		Salon Media Group							California		US
+chicagotribune.com : 1629					Newspaper									1847		The Chicago Tribune							Chicago			US
+cbc.ca : 1304								TV, Radio									1936		Canadian Broadcasting Corporation			Ottawa 			Canada
+elpais.com : 1264							Newspaper									1976		El País (Lit : The Country)					Madrid			Spain									
+spiegel.de : 1164							Online Magazine								1994		Spiegel Online								Hamburg			Germany
+theglobeandmail.com : 1117					Newspaper									1844		The Globe and Mail							Toronto			Canada
+examiner.com : 1090							Citizen Journalism							1994		Examiner.com								Denver			US			ded
+seattletimes.nwsource.com : 1074			Newspaper									1891		The Seattle Times							Seattle			US
+dailykos.com : 1018							Blog Network, Internet Forum				2002		Daily Kos
+philly.com : 999							Newspaper									2010		Philadelphia Media Network					Philadeplhia 	US				
+chron.com : 969								Newspaper									1901		Houston Chronicle							Houston			US
+breitbart.com : 949							Online News									2007		Breitbart News Network
+theatlantic.com : 930						Magazine									1857		The Atlantic								WashingtonDC	US
+variety.com : 924							Magazine									1905		Variety										LA				US
+thinkprogress.org : 916						Online News									2005		Think Progress								
+gawker.com : 912							Blog Network								2003		Gawker Media															ded
+smh.com.au : 904							Newspaper									1831		The Sydney Morning Herald					Sydney			Australia
+boingboing.net : 901						Magazine, Blog Network						1988		Boing Boing									
+thestar.com : 888							Newspaper									1892		Toronto Star								Toronto			Canada
+haaretz.com : 866							Newspaper									1919		Haaertz (lit: [The Land of Israel])			Tel Aviv		Israel
+blogs.zdnet.com : 860						Online News									1991		ZDNet
+nbc.com : 850								TV, Radio									1939		National Broadcasting Company				New York		US
+csmonitor.com : 848							Newspaper									1908		The Christian Science Monitor				Massachusets	US
+blogs.msdn.com : 843						Blog Network								1992		Microsoft Developer Network					
+people.com : 832							Magazine									1974		People																	Celebrity
+rollingstone.com : 828						Magazine									1967		Rolling Stone								New York		US			Pop Culture
+miamiherald.com : 823						Newspaper									1903		Miami Herald								Florida			US			News
+scienceblogs.com : 816						Blog Network								2006		ScienceBlogs															Science
+thenation.com : 808							Magazine									1865		The Nation									New York		US			Politics
+theregister.co.uk : 802						Online News									1994		The Register								London			UK			Technology
+elmundo.es : 797							Newspaper									1989		El Mundo del Siglo Veintiuno				Madrid			Spain
+michellemalkin.com : 796					Personal Blog of Writer
+dallasnews.com : 795						Newspaper									1885		The Dallas Morning News						Dallas			US			News
+topix.net : 793								Online News									2004		Topix										California		US
+newsday.com : 793							Newspaper									1940		Newsday										New York		US
+pcworld.com : 789							Magazine									1983		PCWorld										California 		US			Computer
+worldnetdaily.com : 787						Online News									1997		WND											Pennsylvania	US			
+jpost.com : 786								Newspaper									1932		The Jerusalem Post							Jerusalem		Israel		News
+mashable.com : 774							Online News									2005		Mashable									
+tmz.com : 769								Online News									2005		TMZ																		Celebrity
+alternet.org : 765							Online News									1997		Alternet									
+thedailybeast.com : 762						Online News									2008		The Daily Beast
+theaustralian.news.com.au : 759				Newspaper									1964		The Australian								NSW				Australia
+upi.com : 755								International News Agency					1907		United Press International					Miami			US
+startribune.com : 749						Newspaper									1867		Star Tribune								Minnesota		US
+corner.nationalreview.com : 749				Magazine									1955		National Review								
+article.nationalreview.com : 659
+theonion.com : 748							Satire Newspaper							1988		The Onion									Chicago			US
+blogalaxia.com : 744						Latin Blog Network
+gizmodo.com : 743							Online News									2002
+i.gizmodo.com : 611
+thehill.com : 728							Newspaper									1994		The Hill									WashingtonDC	US
+mediamatters.org : 720						Media Watchdog Organization					2004		Media Matters for America					WashingtonDC	US
+businessinsider.com : 716					Online News									2009		Bussiness Insider
+sciencedaily.com : 710						Online Research News						1995		Science Daily
+andrewsullivan.theatlantic.com : 688		Personal Blog of Writer
+freep.com : 682								Newspaper									1831		Detroit Free Press							Detroit			US
+cnbc.com : 681								TV											1989		Consumer News & Bussiness Channel			
+lifehacker.com : 681						Online Blog									2005		Lifehacker
+googleblog.blogspot.com : 674				Personal Blog
+hotair.com : 670							Political Blog								2006
+ajc.com : 669								Newspaper									1868		The Atlanta Journal-Constitution			Atlanta			US
+hosted.ap.org : 665							News Agency									1846		The Associated Press						NewYork			US
+vanityfair.com : 662						Magazine									1983		Vanity Fair			
+kotaku.com : 658							Online Blog									2004		Kotaku
+pajamasmedia.com : 652						Online Blog									2004		PJ Media
+eonline.com : 650							TV											1987		E!
+adage.com : 647								Magazine									1930		Advertising Age
+bizjournals.com : 647						Newspaper									1985		American City Business Journal
+nature.com : 645							Scientific Journal							1869		Nature
+readwriteweb.com : 642						Online Blog									2003		ReadWrite
+denverpost.com : 636						Newspaper									1892		The Denver Post								Denver			US
+hollywoodreporter.com : 634					Magazine									1930		The Holywood Reporter
+canada.com : 632							News Agency									1904		Postmedia News
+townhall.com : 629							Magaizne									1995		Townhall
+computerworld.com : 623						Magazine									1967		Computerworld
+theage.com.au : 615							Newspaper									1854		The Age										Melbourne 		Australia
+sciam.com : 614								Science Magazine							1845		Scientific American
+realclearpolitics.com : 614					News Aggregation							2000		RealClearPolitics
+baltimoresun.com : 609						Newspaper									1837		The Baltimore Sun							Maryland		US
+nj.com : 593								Local Online News							2012		New Jersey
+mcclatchydc.com : 585						News Agency									1857		McClatchy DC
+nybooks.com : 580							Magazine									1963		The New York Review of Books				
+commondreams.org : 578						Online News									1997		Common Dreams
+weeklystandard.com : 576					Magazine									1995		The Weekly Standard
+corriere.it : 572							Newspaper									1876		Corriere Della Sera							Milan			Italy
+reason.com : 571							Magazine									1968		Reason
+post-gazette.com : 560						Newspaper									1786		Pittsburgh Post Gazette						Pennsylvania	US
+rawstory.com : 559							Online News									2004		Raw Story
+kansascity.com : 552						Newspaper									1880		The Kansas City Star
+repubblica.it : 552							Newspaper									1976		La Repubblica 								Italy
+news.xinhuanet.com : 549					News Agency									1931		Xinhua News Agency							China
+azcentral.com : 546							Newspaper									1890		The Arizona Republic						Arizona			US
+dn.se : 545									Newspaper									1864		Dagens Nyheter (lit:The Day's News)			Sweden
+newsbusters.org : 543						Online Blog	- Media Analyst					2005		Media Research Center
+mediabistro.com : 543						Online Blog - Media Analyst					1996		Mediabistro
+lemonde.fr : 541							Newspaper									1944		Le Monde (lit:The World)					French
+heise.de : 538								Magazine									1949		Heinz Heise									Germany
+timesofindia.indiatimes.com : 530			Newspaper									1838		The Times of India							India
+desmoinesregister.com : 529					Newspaper									1849		The Des Moines Register						Iowa			US
+detnews.com : 529							Newspaper									1873		The Detroit News							US				Detroit
+informationweek.com : 526					Online Magazine								1997		InformationWeek
+prospect.org : 517							Magazine									1990		The American Prospect
+crooksandliars.com : 512					Online Blog									2004		Crooks and Liars
+mirror.co.uk : 511							Newspaper									1903		Daily Mirror								UK				London
+consumerist.com : 511						Online News									2005	
+motherjones.com : 510						Magazine									1976		MotherJones									US
+treehugger.com : 507						Online Blog									2005
+cnsnews.com : 503							Online News									1998		CNSNews.com
+thesmokinggun.com : 502						Online News									1997							

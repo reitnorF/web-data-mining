@@ -1,0 +1,117 @@
+SERVICE PROVIDER
+
+google.com : 10574				Internet-Related Tech			1998
+	maps.google.com : 3155			Map Service	(Ack)				2005
+	code.google.com : 1485			Project Hosting Service 		2005
+	youtube.com : 22683				Video Sharing (Ack)				2005			
+	blogger.com : 22420				Blog Publishing	(Ack)			1999
+	books.google.com : 1446			Digital Library					2004
+	feeds.feedburner.com : 1423		Web Feed Management				2004
+	feedproxy.google.com : 1248		Web Feed Management				2004
+	images.google.com : 1205		Image Search					2001
+	video.google.com : 1178			Video Sharing (ded)				2005
+	picasaweb.google.com : 1046		Photo Sharing (ded)				2002
+	groups.google.com : 865			Discussion (ack)				2001
+	news.google.com : 2210			News Agregator					2002
+	translate.google.com : 767		Translator						2006
+	docs.google.com : 584			Office Suite					2006				
+	feedburner.com : 627			Feed Management					2004
+	feeds2.feedburner.com : 596	
+	ap.google.com : 620
+	lh3.ggpht.com : 578
+	lh5.ggpht.com : 569
+	lh6.ggpht.com : 559
+	lh4.ggpht.com : 556
+	google.de : 617
+	mail.google.com : 575			Email							2004
+	
+twitter.com : 19745				Social Networking				2006
+	search.twitter.com : 1934
+	
+amazon.com : 13191				E-Commerce + Cloud Computing	1994
+	amazon.de : 596					Germany							1998
+	amazon.co.uk : 1346				UK Subdomain					1994
+	amazon.co.jp : 1296				Japan Subdomain					1994
+	imdb.com : 6760					Film,TV,Game Database (Ack)		1990
+	
+flickr.com : 10905				Image, Video Hosting			2004
+	farm4.static.flickr.com : 1294
+	
+facebook.com : 7353				Social Networking				2004
+apps.facebook.com : 533
+
+myspace.com : 7053				Social Networking				2003
+vids.myspace.com : 512
+
+
+tinyurl.com : 3347				URL Shortener					2002
+vimeo.com : 2920				Video Sharing					2004
+digg.com : 2734					News Aggregator					2004
+
+wordpress.com : 551				Content Management Service		2003
+wordpress.org : 1153			Content Management Service		2003
+en.wordpress.com : 2215			Content Management Service		2003
+de.wordpress.com : 540
+
+
+finance.yahoo.com : 1067		News Agregator					1997
+news.yahoo.com : 3546			News Agregator					1996
+sports.yahoo.com : 770			Sport News Website				1997
+myweb2.search.yahoo.com : 694	Search Engine
+groups.yahoo.com : 544			Discussion						2001
+
+
+geocities.com : 1462			Web Hosting (Ack)				1994
+stumbleupon.com : 1441			Web Finder & Recommender		2001
+
+linkedin.com : 1332				Social Networking, Bussiness	2002
+slideshare.net : 933			Slide Hosting					2006
+
+technorati.com : 2717			Blog Search Engine
+creativecommons.org : 1298		Copyyright License				2001
+scribd.com : 1028				Digital library					2007
+reddit.com : 1018				Discussion						2005
+bit.ly : 982					Link Management					2008
+rapidshare.com : 981			File Hosting					2002		
+last.fm : 861					Music Website					2002
+dailymotion.com : 1508			Video Sharing					2005
+urbandictionary.com : 1097		Slang Dictionary				1999
+match.seesaa.jp : 6089			Internet-Related Tech			2003
+blogs.sync.gr : 2109			Blog Platform - Jepang	
+del.icio.us : 2106				Social Web Bookmarking			2003
+etsy.com : 1877					E-Commerce						2005
+suite101.com : 1460				Collaborative Publishing Revenue Sharing	1996 - 2014
+infooks.com : 1391				Blog Platform - Jepang			ded
+blog.hu : 1081					Blog Provider - Hungaria		
+biblegateway.com : 981			Online Bible
+profile.myspace.com : 817		Social Network					2003
+hulu.com : 789					Video on Demand Service			2007
+
+addthis.com : 786				Social Bookmarking				2004
+cgi.ebay.com : 785				e-Commerce						1995
+twitpic.com : 783				Twitter Image Sharing			2008
+userdisk.webry.biglobe.ne.jp : 775	ISP Japan					1986	
+mediafire.com : 659				File Hosting					2006
+thepiratebay.org : 653			Torrent Index					2003
+web.archive.org : 652			The Internet Archive			1996
+archive.org : 651
+haloscan.com : 650				Blog Comment System				2002
+ted.com : 648					Conference						1984
+findarticles.com : 641			Article Agregator				2000
+community.livejournal.com : 621	Blog Provider					1999
+ameblo.jp : 608					Japan Blog Provider				2009
+blog.livedoor.jp : 608			Japan ISP & Blog Provider		1995
+snopes.com : 607				Fact Checking Website			1996
+answers.com : 606				Knowledge Exchange				1999
+dictionary.reference.com : 595	Dictionary						1997
+delicious.com : 583				Social Bookmarking				2003
+yelp.com : 579					Crowdsource Review				2004
+anahorisan.com : 574			Japan Blog Provider
+furl.net : 565					Social Bookmarking				2003
+squidoo.com : 559				Collaborative Publishing Revenue Sharing	2005
+information1.biz : 557			Japan e-Commerce
+sourceforge.net : 537			Source Code Repository			1999
+blog.igooi.com : 522			China Social Bookmark	
+oyax.com : 510					Social Bookmark					2005
+blogalaxia.com : 744						Latin Blog Network
+realclearpolitics.com : 614					News Aggregation							2000		RealClearPolitics

@@ -1,0 +1,38 @@
+BRAND
+
+microsoft.com : 2744			Microsoft										Product
+support.microsoft.com : 645
+msdn.microsoft.com : 569
+apple.com : 2744				Apple											Product
+itunes.apple.com : 1056			Apple Itunes
+whitehouse.gov : 1905			Whitehouse										Goverment
+adobe.com : 1578				Adobe											Product
+who.int : 1014					World Health Organization						Goverment Multinational
+cdc.gov : 1761					Center for Disease Control & Prevention USA		Goverment
+epa.gov : 765					US Environmental Protection Agency				Goverment
+un.org : 742					United Nations									Goverment Multinational
+ubuntu.com : 684				Ubuntu											Product
+nasa.gov : 653					NASA											Goverment
+aclu.org : 643					American Civil Liberties Union					Organization
+eff.org : 643					Electronic Frontier Foundation					Organization
+rasmussenreports.com : 626		Polling Company									Organization
+irs.gov : 614					US Internal Revenue Service						Goverment
+thomas.loc.gov : 610			US Congress Library								Goverment
+ec.europa.eu : 605				European Commision EU Executive					Goverment Multinational
+mlb.mlb.com : 601				Major League Baseball							Sport
+hbo.com : 588					Home Box Office									Product 
+nps.gov : 585					National Park Service							Goverment
+skype.com : 581					Skype											Product
+house.gov : 577					US House of Representative						Goverment
+mozilla.com : 537				Mozilla Project									Product
+w3.org : 537					World Wide Web Consortium						Organization
+usdoj.gov : 535					US Department of Justice						Goverment
+state.gov : 527					US Department of State							Goverment
+ncbi.nlm.nih.gov : 526			National Center for Biotechnology Info			Goverment
+cbs.com : 526					Columbia Broadcasting System					Product TV Cable
+gallup.com : 509				Research Company								Product
+voanews.com : 506				US International Broadcast						Goverment
+sec.gov : 505					US Security and Exchange Commision				Goverment
+hrw.org : 500					Human Rights Watch								Organization	
+mediamatters.org : 720						Media Watchdog Organization					2004		Media Matters for America					WashingtonDC	US
+
